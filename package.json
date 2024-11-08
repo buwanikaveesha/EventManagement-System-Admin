@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@react-pdf/renderer": "^3.4.2",
+    "react-to-print": "^2.15.1"
+  }
+}
